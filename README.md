@@ -1,5 +1,7 @@
 ###
-Hi, I'm Kevin! :wave:
+Hi, I'm Kevin! :sunglasses:
+<br>
+I'm a current Web Dev student at Emily Griffith Technical College.
 <br><br>
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevMcCall&show_icons=true&theme=merko)](https://github.com/KevMcCall/github-readme-stats)
 <br>
