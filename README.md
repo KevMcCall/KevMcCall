@@ -7,7 +7,7 @@ I'm a current Web Dev student at Emily Griffith Technical College.
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevMcCall&layout=compact)](https://github.com/KevMcCall/github-readme-stats)
 <br>
-[tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/KevMcCall
+
 <!--
 **KevMcCall/KevMcCall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
